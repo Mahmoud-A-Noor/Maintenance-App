@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "153932781485",
+    "project_id": "work-maintenance",
+    "storage_bucket": "work-maintenance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153932781485:android:7c6e8abb831ad75070f324",
+        "android_client_info": {
+          "package_name": "com.work_maintenance.work_maintenance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153932781485-49ap6jh9rmdtki5775c06np4djucjg1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.work_maintenance.work_maintenance",
+            "certificate_hash": "faca4577dc52734f1642b8620f70a0ab007611f1"
+          }
+        },
+        {
+          "client_id": "153932781485-7ge3gm9qmp3rrlqtheuq6j1p9qeifdkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVyTJDEqIHltD6qbCiFeG3JWHWCkJhLps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153932781485-7ge3gm9qmp3rrlqtheuq6j1p9qeifdkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
